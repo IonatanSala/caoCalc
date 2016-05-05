@@ -1,0 +1,5 @@
+export const TOGGLE_MODAL = 'TOGGLE_MODAL';
+export const ADD_SUBJECT = 'ADD_SUBJECT';
+export const UPDATE_SUBJECT = 'UPDATE_SUBJECT';
+export const UPDATE_LEVEL = 'UPDATE_LEVEL';
+export const UPDATE_GRADE = 'UPDATE_GRADE';
